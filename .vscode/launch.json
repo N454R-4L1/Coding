@@ -1,0 +1,68 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch curr",
+            "request": "launch",
+            "mainClass": "curr",
+            "projectName": "Coding!!_ad03cee6"
+        },
+        {
+            "type": "java",
+            "name": "Launch calendar1",
+            "request": "launch",
+            "mainClass": "calendar1",
+            "projectName": "Coding!!_ad03cee6"
+        },
+        {
+            "type": "java",
+            "name": "Launch job",
+            "request": "launch",
+            "mainClass": "job",
+            "projectName": "Coding!!_ad03cee6"
+        },
+        {
+            "type": "java",
+            "name": "Launch statico",
+            "request": "launch",
+            "mainClass": "statico",
+            "projectName": "Coding!!_ad03cee6"
+        },
+        {
+            "type": "java",
+            "name": "Launch datat",
+            "request": "launch",
+            "mainClass": "datat",
+            "projectName": "Coding!!_ad03cee6"
+        },
+        {
+            "type": "java",
+            "name": "Launch query",
+            "request": "launch",
+            "mainClass": "query",
+            "projectName": "Coding!!_ad03cee6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "Coding!!_ad03cee6"
+        },
+        {
+            "name": "(Windows) Launch",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "enter program name, for example ${workspaceFolder}/a.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "console": "externalTerminal"
+        }
+    ]
+}
