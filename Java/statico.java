@@ -22,7 +22,7 @@ public class statico
     }
     public static void main(String[] args)
     {
-
+        
     }
     
 }
